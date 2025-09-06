@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm Vladimir! 👋 Java Backend Developer from Russia
+## Hi, I'm Vladimir! 👋 Java Backend Developer
 
 </div>
                                            
@@ -35,7 +35,7 @@
     "databases": ["PostgreSQL"],
     "buildTools": ["Maven"],
     "versionControl": ["Git"],
-    "developmentTools": ["IntelliJ IDEA", "VS Code", "Swagger"],
+    "developmentTools": ["IntelliJ IDEA", "VS Code"],
     "protocolsAndFormats": ["REST API", "JSON"]
   }
 }
