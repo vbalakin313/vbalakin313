@@ -5,7 +5,8 @@
 <img src="https://github.com/vbalakin313/vbalakin313/blob/main/assets/slowSnowCity.gif?raw=true" alt="Winter Coding" width="500" />
 
 </div>
-                                           
+
+---                             
 [![My Tech Stack](https://img.shields.io/badge/-My%20Tech%20Stack-orange?style=flat)](https://github.com/vbalakin313)
 [![::](https://img.shields.io/badge/-::-orange?style=flat)](https://github.com/vbalakin313)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
