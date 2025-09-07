@@ -2,6 +2,8 @@
   
 ## Hi, I'm Vladimir! 👋 Java Backend Developer
 
+<img src="https://github.com/vbalakin313/vbalakin313/blob/main/assets/slowSnowCity.gif?raw=true" alt="Winter Coding" width="500" />
+
 </div>
                                            
 [![My Tech Stack](https://img.shields.io/badge/-My%20Tech%20Stack-orange?style=flat)](https://github.com/vbalakin313)
@@ -40,7 +42,7 @@
   }
 }
 ```
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Spring Cloud & Microservices**. <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5yN3V4d2V1b3p6c3R4Z2J6eGZ4dGZ2N2l1a2ZjbjBqczZ0eGZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Coding" width="25%" /><br>
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning Spring Cloud & Microservices. <img align="right" src="https://github.com/vbalakin313/vbalakin313/blob/main/assets/coding.gif?raw=true" alt="Coding" width="15%" />
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy exploring **Backend Architecture**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Java, Spring Boot, or API development**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[Vladimir Balakin](https://t.me/vbalakin313)**<br>
